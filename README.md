@@ -6,7 +6,7 @@
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 <br><br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/anfederico/Flaskex/master/media/flaskex-demo.png" width="100%"><p>
+<p align="center"><img src="https://raw.githubusercontent.com/devops-pr/walmart_hackathon/develop/media/walmart-screenshot.png" width="100%"><p>
 
 ## Features
 - Encrypted user authorizaton
